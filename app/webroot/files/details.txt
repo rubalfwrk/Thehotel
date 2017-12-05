@@ -1,0 +1,104 @@
+stdClass Object
+(
+    [User] => stdClass Object
+        (
+            [id] => 434
+            [snid] => 11845285033
+        )
+
+    [products] => stdClass Object
+        (
+            [prod] => stdClass Object
+                (
+                    [error] => 0
+                    [data] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [order_item_count] => 1
+                                    [quantity] => 6
+                                    [weight] => 1.00
+                                    [subtotal] => 300.000
+                                    [total] => 300.000
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [Cart] => stdClass Object
+                                                (
+                                                    [id] => 3227
+                                                    [uid] => 434
+                                                    [image] => http://rajdeep.crystalbiltech.com/dropin/files/product/180529Desert.jpg
+                                                    [sessionid] => 11845285033
+                                                    [product_id] => 70
+                                                    [parent_id] => 0
+                                                    [name] => test
+                                                    [weight] => 1.00
+                                                    [price] => 50.000
+                                                    [quantity] => 6
+                                                    [weight_total] => 6.00
+                                                    [subtotal] => 300
+                                                    [created] => 2017-01-10 17:24:01
+                                                    [modified] => 2017-01-10 17:24:01
+                                                    [resid] => 625
+                                                    [cat_id] => 0
+                                                    [tno] => 0
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [address] => stdClass Object
+        (
+            [billing] => stdClass Object
+                (
+                    [Table] => stdClass Object
+                        (
+                            [rid] => 625
+                            [fname] => bhumika
+                            [lname] => grover
+                            [address] => null
+                            [phone] => 123123123
+                            [number] => 1
+                            [date] => 10-01
+                            [time] => 05:24
+                            [email] => bhumika@futureworktechnologies.com
+                            [uid] => 434
+                            [tid] => 0
+                        )
+
+                )
+
+        )
+
+    [payment] => stdClass Object
+        (
+            [mode] => wallet
+            [total] => 300.000
+        )
+
+    [Table] => stdClass Object
+        (
+            [no] => 982
+        )
+
+    [creditcard] => stdClass Object
+        (
+            [status] => 0
+        )
+
+    [notes] => stdClass Object
+        (
+            [notes] => null
+        )
+
+)

@@ -1,0 +1,1 @@
+You have successfully subscribe your yearly Plan.You can add your Deals <a href="javascript:void()">rajdeep.crystalbiltech.com/dhdeals2/admin</a>
